@@ -20,7 +20,7 @@ class MyStr(str) : #<-----Replace xyz-make a new class, MyStr, that inherits fro
         use_this2=use_this.lower()
         return self.lower().replace(take_out2,use_this2)
         
-        
+        AaAaDd bbbbdd
         """
         Override the replace method of string.
         The new replace method is case-insensitive,
